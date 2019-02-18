@@ -1,0 +1,13 @@
+body {
+    background-color: grey
+}
+
+.navbar-default{
+    background-color: white
+}
+
+@media (max-width: 780px){
+    .navbar-default {
+        background-color: navy
+        }
+}
